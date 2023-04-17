@@ -2,5 +2,5 @@
 
 # Install:
 
-- Install python
-- 
+- Install `Python`
+- Install: `OpenAI`, `GPT Index`, `PyPDF2`, and `Gradio` Libraries
