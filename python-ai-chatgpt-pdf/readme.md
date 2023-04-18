@@ -1,4 +1,6 @@
-# Reference: https://beebom.com/how-train-ai-chatbot-custom-knowledge-base-chatgpt-api/
+# Reference: 
+
+- https://beebom.com/how-train-ai-chatbot-custom-knowledge-base-chatgpt-api/
 
 # Install:
 
@@ -12,4 +14,4 @@ Command: `pip install -r requirements.txt`
 - Next, move the documents you wish to use for training the AI inside the “docs” folder. You can add multiple text or PDF files (even scanned ones).
 
 # Run:
-python app.py [OPEN_AI_KEY]
+Run this command `python app.py [OPEN_AI_KEY]`
