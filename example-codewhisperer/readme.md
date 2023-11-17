@@ -14,5 +14,6 @@ https://docs.aws.amazon.com/codewhisperer/latest/userguide/whisper-setup-indv-de
 ![image](https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/23/ML-10188-image001.png)
 
 # Example Code Whisperer
-- AWS Code Whisperer with Python example: [Amazon-Codewhisperer-Workshop](https://github.com/aws-samples/amazon-codewhisperer-workshop)
+- Example  Whisperer with Python: https://github.com/aws-samples/amazon-codewhisperer-immersion-day/tree/main/python
+- AWS Code Whisperer Workshop with Python example: [Amazon-Codewhisperer-Workshop](https://github.com/aws-samples/amazon-codewhisperer-workshop)
 - Using AWS Code Whisperer to build a Python Event-Driven Serverless App: [Link](https://www.youtube.com/watch?v=8vkHLnhIFGA&ab_channel=AmazonWebServices)
